@@ -4079,7 +4079,7 @@
       "es": null,
       "pt": null,
       "de": "Blei",
-      "fr": null,
+      "fr": Plomb,
       "ru": "Свинец",
       "pl": null,
       "cs": "Lead"
@@ -4169,7 +4169,7 @@
       "es": null,
       "pt": null,
       "de": "Menschlich",
-      "fr": null,
+      "fr": Humain,
       "ru": null,
       "pl": null,
       "cs": "Lidské"
@@ -4439,7 +4439,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": null,
+      "fr":Munitions incendiaires,
       "ru": null,
       "pl": null,
       "cs": "Incendiary Rounds"
@@ -4673,7 +4673,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": null,
+      "fr": Expérimental,
       "ru": "Экспериментальные",
       "pl": null,
       "cs": "Experimentální"
@@ -4682,7 +4682,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": null,
+      "fr": Technologie,
       "ru": "Технологии",
       "pl": null,
       "cs": "Technologie"
@@ -4835,7 +4835,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": null,
+      "fr": Charge rapide,
       "ru": null,
       "pl": null,
       "cs": "Fast Charge"
@@ -4853,7 +4853,7 @@
       "es": null,
       "pt": null,
       "de": null,
-      "fr": null,
+      "fr": Charge profonde,
       "ru": null,
       "pl": null,
       "cs": "Deep Charge"
